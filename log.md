@@ -29,3 +29,15 @@ go build hello.go
 **Today's Progress**: Finished [Getting Started with Go Week2](https://www.coursera.org/learn/golang-getting-started/home/week/2)
 
 **Summary**: Practiced Go, ran test cases, and worked assignments such as coverting variable type and manuplating strings
+
+### Day 4: Dec 25, 2022
+
+**Today's Progress**: Finished [Getting Started with Go Week3](https://www.coursera.org/learn/golang-getting-started/home/week/3)
+
+**Summary**: Practiced Go, ran test cases, and worked assignments such as truncating and searching name
+
+### Day 5: Dec 26, 2022
+
+**Today's Progress**: Finished [Getting Started with Go Week4](https://www.coursera.org/learn/golang-getting-started/home/week/4)
+
+**Summary**: Practiced Go, ran test cases, and worked assignments such as truncating and searching name
