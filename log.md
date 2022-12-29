@@ -41,3 +41,11 @@ go build hello.go
 **Today's Progress**: Finished [Getting Started with Go Week4](https://www.coursera.org/learn/golang-getting-started/home/week/4)
 
 **Summary**: Practiced Go, ran test cases, and worked assignments such as truncating and searching name
+
+### Day 6: Dec 29, 2022
+
+**Today's Progress**: Finished [Functions, Methods, and Interfaces in Go Week1](https://www.coursera.org/learn/golang-functions-methods/home/week/1)
+
+**Summary**: Practiced Functions and code bubblesorting
+
+**Link to work:** [day6](./snippets/day6/sort)
