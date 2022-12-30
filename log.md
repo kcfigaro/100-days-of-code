@@ -49,3 +49,11 @@ go build hello.go
 **Summary**: Practiced Functions and code bubblesorting
 
 **Link to work:** [day6](./snippets/day6/sort)
+
+### Day 7: Dec 30, 2022
+
+**Today's Progress**: Finished [Functions, Methods, and Interfaces in Go Week2](https://www.coursera.org/learn/golang-functions-methods/home/week/2)
+
+**Summary**: Practiced Returning Functions and Coded
+
+**Link to work:** [day7](./snippets/day7/displacement)
