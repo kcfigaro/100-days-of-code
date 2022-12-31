@@ -57,3 +57,11 @@ go build hello.go
 **Summary**: Practiced Returning Functions and Coded
 
 **Link to work:** [day7](./snippets/day7/displacement)
+
+### Day 8: Dec 31, 2022
+
+**Today's Progress**: Finished [Functions, Methods, and Interfaces in Go Week3](https://www.coursera.org/learn/golang-functions-methods/home/week/3)
+
+**Summary**: Practiced methods and Coded
+
+**Link to work:** [day8](./snippets/day8/animal)
