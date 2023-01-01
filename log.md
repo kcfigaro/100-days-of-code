@@ -65,3 +65,11 @@ go build hello.go
 **Summary**: Practiced methods and Coded
 
 **Link to work:** [day8](./snippets/day8/animal)
+
+### Day 9: Jan 1, 2023
+
+**Today's Progress**: Finished [Functions, Methods, and Interfaces in Go Week4](https://www.coursera.org/learn/golang-functions-methods/home/week/4)
+
+**Summary**: Practiced and Coded interface
+
+**Link to work:** [day9](./snippets/day9/animal)
