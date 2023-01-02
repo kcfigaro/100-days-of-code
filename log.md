@@ -73,3 +73,9 @@ go build hello.go
 **Summary**: Practiced and Coded interface
 
 **Link to work:** [day9](./snippets/day9/animal)
+
+### Day 10: Jan 2, 2023
+
+**Today's Progress**: Finished [Concurrency in Go Week1](https://www.coursera.org/learn/golang-concurrency/home/week1)
+
+**Summary**: Learned Parallel and Concurrent. Learned the physical limitations that have prevented Moore's law from continuing to be true
