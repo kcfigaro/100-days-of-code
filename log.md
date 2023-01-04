@@ -79,3 +79,11 @@ go build hello.go
 **Today's Progress**: Finished [Concurrency in Go Week1](https://www.coursera.org/learn/golang-concurrency/home/week1)
 
 **Summary**: Learned Parallel and Concurrent. Learned the physical limitations that have prevented Moore's law from continuing to be true
+
+### Day 11: Jan 4, 2023
+
+**Today's Progress**: Finished [Concurrency in Go Week2](https://www.coursera.org/learn/golang-concurrency/home/week2)
+
+**Summary**: Learned goroutines and produced a race condition
+
+**Link to work:** [day11](./snippets/day11/test)
