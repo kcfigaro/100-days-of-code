@@ -6,6 +6,8 @@
 
 **Summary**: Learned goroutines and coded
 
+**Link to work:** [day12](./snippets/day12/gosort)
+
 ### Day 11: Jan 4, 2023
 
 **Today's Progress**: Finished [Concurrency in Go Week2](https://www.coursera.org/learn/golang-concurrency/home/week2)
