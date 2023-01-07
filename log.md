@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 13: Jan 7, 2023
+
+**Today's Progress**: Finished [Concurrency in Go Week4](https://www.coursera.org/learn/golang-concurrency/home/week4)
+
+**Summary**: Learned synchronization, mutex, and deadlock
+
 ### Day 12: Jan 5, 2023
 
 **Today's Progress**: Finished [Concurrency in Go Week3](https://www.coursera.org/learn/golang-concurrency/home/week3)
