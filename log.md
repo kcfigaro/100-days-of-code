@@ -1,10 +1,18 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - kc's Log
+
+### Day 14: Jan 8, 2023
+
+**Today's Progress**: Finished [Deploy Go Apps on Google Cloud Serverless Platforms](https://www.coursera.org/learn/googlecloud-deploy-go-apps-on-google-cloud-serverless-platforms-j7ewx/home/week/1) and Started [Build your own Redis](https://app.codecrafters.io/courses/redis?track=go)
+
+**Summary**: Deployed sample Go app on GCP, Developed binding the TCP server Port and simple PING/PONG logic in Go
 
 ### Day 13: Jan 7, 2023
 
 **Today's Progress**: Finished [Concurrency in Go Week4](https://www.coursera.org/learn/golang-concurrency/home/week4)
 
 **Summary**: Learned synchronization, mutex, and deadlock
+
+**Link to work:** [day13](./snippets/day13)
 
 ### Day 12: Jan 5, 2023
 
