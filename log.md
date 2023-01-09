@@ -1,5 +1,13 @@
 # 100 Days Of Code - kc's Log
 
+### Day 15: Jan 9, 2023
+
+**Today's Progress**: Tried out TCP Server
+
+**Summary**: Developed TCP Server and Tested it out
+
+**Link to work:** [day15](./snippets/day15)
+
 ### Day 14: Jan 8, 2023
 
 **Today's Progress**: Finished [Deploy Go Apps on Google Cloud Serverless Platforms](https://www.coursera.org/learn/googlecloud-deploy-go-apps-on-google-cloud-serverless-platforms-j7ewx/home/week/1) and Started [Build your own Redis](https://app.codecrafters.io/courses/redis?track=go)
