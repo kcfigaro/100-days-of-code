@@ -1,5 +1,13 @@
 # 100 Days Of Code - kc's Log
 
+### Day 16: Jan 10, 2023
+
+**Today's Progress**: Build My Own Redis(Part4)
+
+**Summary**: coded multiple PINGs and concurrent clients
+
+**Link to work:** [4th stage: Handle concurrent clients](https://github.com/kcfigaro/codecrafters-redis-go/commit/76af3ee2f39556eb7ca26e395f3c9508bd4ef189)
+
 ### Day 15: Jan 9, 2023
 
 **Today's Progress**: Tried out TCP Server
