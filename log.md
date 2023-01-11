@@ -1,5 +1,11 @@
 # 100 Days Of Code - kc's Log
 
+### Day 17: Jan 11, 2023
+
+**Today's Progress**: look through [Introduction to Streams and Buffers](https://medium.com/rungo/introduction-to-streams-and-buffers-d148c0cda0ad)
+
+**Summary**: make data buffer and streams clear
+
 ### Day 16: Jan 10, 2023
 
 **Today's Progress**: Build My Own Redis(Part4)
