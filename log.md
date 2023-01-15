@@ -1,5 +1,11 @@
 # 100 Days Of Code - kc's Log
 
+### Day 19: Jan 15, 2023
+
+**Today's Progress**: Build My Own Redis(Part6)
+
+**Summary**: Implement the SET & GET commands
+
 ### Day 18: Jan 14, 2023
 
 **Today's Progress**: Build My Own Redis(Part5)
