@@ -1,5 +1,13 @@
 # 100 Days Of Code - kc's Log
 
+### Day 18: Jan 14, 2023
+
+**Today's Progress**: Build My Own Redis(Part5)
+
+**Summary**: Implement the ECHO command
+
+**Link to work:** [4th stage: Handle concurrent clients](https://github.com/kcfigaro/codecrafters-redis-go/commit/ddeb9efa0032e53445dbd9ce532cd11e03ab5f71)
+
 ### Day 17: Jan 11, 2023
 
 **Today's Progress**: look through [Introduction to Streams and Buffers](https://medium.com/rungo/introduction-to-streams-and-buffers-d148c0cda0ad)
