@@ -1,5 +1,13 @@
 # 100 Days Of Code - kc's Log
 
+### Day 20: Jan 16, 2023
+
+**Today's Progress**: Build My Own Redis(Part6)
+
+**Summary**: Improved SET & GET logic
+
+**Link to work:** [4th stage: Implement the SET & GET cmd](https://github.com/kcfigaro/codecrafters-redis-go/commit/4a49ab6b4cad2b30b02cd5bcc5aa5fe8a2fc5548)
+
 ### Day 19: Jan 15, 2023
 
 **Today's Progress**: Build My Own Redis(Part6)
