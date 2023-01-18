@@ -1,12 +1,20 @@
 # 100 Days Of Code - kc's Log
 
+### Day 21: Jan 18, 2023
+
+**Today's Progress**: Build My Own Redis(Part7)
+
+**Summary**: Expiry logic
+
+**Link to work:** [7th stage: Expiry logic](https://github.com/kcfigaro/codecrafters-redis-go/commit/ae6a0e756a1e73f7e6d316131e053fea39d296f7)
+
 ### Day 20: Jan 16, 2023
 
 **Today's Progress**: Build My Own Redis(Part6)
 
 **Summary**: Improved SET & GET logic
 
-**Link to work:** [4th stage: Implement the SET & GET cmd](https://github.com/kcfigaro/codecrafters-redis-go/commit/4a49ab6b4cad2b30b02cd5bcc5aa5fe8a2fc5548)
+**Link to work:** [6th stage: Implement the SET & GET cmd](https://github.com/kcfigaro/codecrafters-redis-go/commit/4a49ab6b4cad2b30b02cd5bcc5aa5fe8a2fc5548)
 
 ### Day 19: Jan 15, 2023
 
@@ -20,7 +28,7 @@
 
 **Summary**: Implement the ECHO command
 
-**Link to work:** [4th stage: Handle concurrent clients](https://github.com/kcfigaro/codecrafters-redis-go/commit/ddeb9efa0032e53445dbd9ce532cd11e03ab5f71)
+**Link to work:** [5th stage: Implement the ECHO command](https://github.com/kcfigaro/codecrafters-redis-go/commit/ddeb9efa0032e53445dbd9ce532cd11e03ab5f71)
 
 ### Day 17: Jan 11, 2023
 
