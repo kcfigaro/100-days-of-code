@@ -1,5 +1,14 @@
 # 100 Days Of Code - kc's Log
 
+### Day 22: Jan 20, 2023
+
+**Today's Progress**: Develop terraform code to provision VPC
+
+**Summary**: CICD Pipeline in Terraform
+
+**Link to work:** [vpc-provisioing-ipam
+](https://github.com/cloudacode/vpc-provisioing-ipam/pull/3)
+
 ### Day 21: Jan 18, 2023
 
 **Today's Progress**: Build My Own Redis(Part7)
