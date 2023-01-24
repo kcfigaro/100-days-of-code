@@ -1,13 +1,28 @@
 # 100 Days Of Code - kc's Log
 
+### Day 24: Jan 22, 2023
+
+**Today's Progress**: Develop Pulumi code in Go
+
+**Summary**: Build the VPC Go package for Pulumi
+
+**Link to work:** [pulumi-aws-go/vpc.go](https://github.com/cloudacode/pulumi-aws-go/tree/main/vpc)
+
+### Day 23: Jan 21, 2023
+
+**Today's Progress**: Develop Pulumi code in Go
+
+**Summary**: Build the Fargate Go package for Pulumi
+
+**Link to work:** [pulumi-aws-go/fargate.go](https://github.com/cloudacode/pulumi-aws-go/blob/main/fargate/fargate.go)
+
 ### Day 22: Jan 20, 2023
 
 **Today's Progress**: Develop terraform code to provision VPC
 
 **Summary**: CICD Pipeline in Terraform
 
-**Link to work:** [vpc-provisioing-ipam
-](https://github.com/cloudacode/vpc-provisioing-ipam/pull/3)
+**Link to work:** [vpc-provisioing-ipam](https://github.com/cloudacode/vpc-provisioing-ipam/pull/3)
 
 ### Day 21: Jan 18, 2023
 
