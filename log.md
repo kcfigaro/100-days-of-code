@@ -1,5 +1,29 @@
 # 100 Days Of Code - kc's Log
 
+### Day 27: Jan 28, 2023
+
+**Today's Progress**: Refactor pulumi aws package
+
+**Summary**: Make a proper package manner
+
+**Link to work:** [cloudacode/pulumi-aws-go](https://github.com/cloudacode/pulumi-aws-go)
+
+### Day 26: Jan 26, 2023
+
+**Today's Progress**: Build your own SQLite stage 3
+
+**Summary**: Print table names in SQLite
+
+**Link to work:** [Stage 3: Print table names](https://github.com/kcfigaro/kcfigaro-codecrafters-sqlite-go/commit/a4adb20778a70d903a3deeeb1fa6be4b1ae23180o)
+
+### Day 25: Jan 24, 2023
+
+**Today's Progress**: Build your own SQLite stage 2
+
+**Summary**: Print number of tables in SQLite
+
+**Link to work:** [Stage 2: Number of tables](https://github.com/kcfigaro/kcfigaro-codecrafters-sqlite-go/commit/8ffed9e1fd2e9706b857299c54a951ce1c519508)
+
 ### Day 24: Jan 22, 2023
 
 **Today's Progress**: Develop Pulumi code in Go
